@@ -213,7 +213,12 @@ nav ul li a:hover {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-
+.contact-form .form-submit{
+    background: white;
+    border-radius: 15px;
+    width: 165px;
+    align-self: center;
+}
 
 /* Listings Page */
 .listings {
